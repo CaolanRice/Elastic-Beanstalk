@@ -1,1 +1,5 @@
-AWS Elastic beanstalk
+Deploying a Web App on AWS Elastic beanstalk
+
+AWS Elastic Beanstalk is a fully managed AWS service that makes it easier to deploy, run, and scale web applications and services. Elastic Beanstalk provisions the necessary underlying infrastructure and resources such as EC2 instances, load balancers, auto-scaling groups, and security groups for running applications, freeing developers from worrying about infrastructure management tasks.
+
+With Elastic Beanstalk, developers can simply upload their application code and Elastic Beanstalk will take care of deploying the code, managing the underlying infrastructure, and monitoring the application health. Elastic Beanstalk supports various application platforms such as Java, .NET, Node.js, Python, Ruby, Go, and Docker, allowing developers to choose the platform that best suits their needs.
